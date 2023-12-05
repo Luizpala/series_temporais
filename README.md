@@ -1,7 +1,7 @@
 
 <center> 
 <big> <big><B><font color="#4d79ff">
- Núcleo de Estudos em Séries Temporais
+ Séries Temporais
  </font></B></big></big>
 </center>
 
