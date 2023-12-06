@@ -11,4 +11,9 @@ ii) Códigos:
 [Parte 1](https://raw.githubusercontent.com/Luizpala/series_temporais/main/volatilidade/aula_st_1.R){:target="_blank"} e [Parte 2](https://raw.githubusercontent.com/Luizpala/series_temporais/main/volatilidade/aula_st_2.R){:target="_blank"}
 
 
+```python
+def hello_world():
+print("Hello, world!")
 
+hello_world()
+```
