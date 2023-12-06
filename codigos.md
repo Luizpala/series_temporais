@@ -1,4 +1,5 @@
 #[Códigos e implementações](#)
+
 Aqui estão disponibilizaddos alguns códigos e implementações utilizados na disciplina de séries temporais.
 
 
