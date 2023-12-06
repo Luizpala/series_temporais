@@ -1,6 +1,6 @@
 ## [Códigos e implementações](#)
 
-Aqui estão disponibilizaddos alguns códigos e implementações utilizados na disciplina de séries temporais da Universidade Federal de Lavras.
+Estão disponibilizaddos alguns códigos e implementações utilizados na disciplina de séries temporais da Universidade Federal de Lavras.
 
 
 ### [Implementações em R](#)
