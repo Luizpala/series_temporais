@@ -6,3 +6,7 @@ gem "github-pages", group: :jekyll_plugins
 
 #Others
 markdown: kramdown
+
+body {
+    background-color: #cce5ff !important;
+}
