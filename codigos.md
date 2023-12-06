@@ -1,6 +1,6 @@
 ## [Códigos](#)
 
-Estão disponibilizados alguns códigos e implementações utilizados na disciplina de séries temporais da Universidade Federal de Lavras.
+Estão disponibilizados alguns códigos e implementações utilizados na disciplina de séries temporais.
 
 ### Aula do dia 05/12/2023
 
