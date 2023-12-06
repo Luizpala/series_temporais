@@ -10,3 +10,4 @@ Aqui estão disponibilizaddos alguns códigos e implementações utilizados na d
 
 [Série Ibovespa 2](https://raw.githubusercontent.com/Luizpala/series_temporais/main/dados/%5EBVSP.csv)
 
+[Download do arquivo ^BVSP.csv](https://downgit.github.io/#/home?url=https://github.com/Luizpala/series_temporais/blob/main/dados/%5EBVSP.csv)
