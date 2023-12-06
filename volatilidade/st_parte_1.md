@@ -1,3 +1,6 @@
+## Parte 1
+
+
 ```r
 #=============================
 # SERIES TEMPORAIS - PARTE 1 
