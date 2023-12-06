@@ -7,5 +7,6 @@ Aqui estão disponibilizaddos alguns códigos e implementações utilizados na d
 
 #### Aula do dia 05/12/2023
 [Série Ibovespa](https://github.com/Luizpala/series_temporais/blob/main/dados/%5EBVSP.csv){:target="_blank"}
+
 [Série Ibovespa](https://github.com/Luizpala/series_temporais/blob/main/dados/%5EBVSP.csv "download"){:target="_blank"}
 
