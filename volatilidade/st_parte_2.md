@@ -6,7 +6,7 @@
 rm(list=ls())
 #=============================
 # Importando a serie temporal 
-dados = read.csv("C:/Users/DESICET/Desktop/^BVSP.csv")
+dados = read.csv("C:/Users/Desktop/^BVSP.csv")
 
 # pacotes necessarios
 library("lmtest")
