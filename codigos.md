@@ -8,7 +8,7 @@ Aqui estão disponibilizaddos alguns códigos e implementações utilizados na d
 #### Aula do dia 05/12/2023
 
 i) Para download dos dados utilizados: 
-[Série Ibovespa 2](https://raw.githubusercontent.com/Luizpala/series_temporais/main/dados/%5EBVSP.csv) ou [Série Ibovespa](https://downgit.github.io/#/home?url=https://github.com/Luizpala/series_temporais/blob/main/dados/^BVSP.csv) 
+[Série Ibovespa](https://raw.githubusercontent.com/Luizpala/series_temporais/main/dados/%5EBVSP.csv) ou [Série Ibovespa](https://downgit.github.io/#/home?url=https://github.com/Luizpala/series_temporais/blob/main/dados/^BVSP.csv) 
 
 ii) Códigos: 
 
