@@ -10,7 +10,5 @@ i) Dados utilizados:
 ii) Para download dos códigos: 
 [Parte 1](https://raw.githubusercontent.com/Luizpala/series_temporais/main/volatilidade/aula_st_1.R){:target="_blank"} e [Parte 2](https://raw.githubusercontent.com/Luizpala/series_temporais/main/volatilidade/aula_st_2.R){:target="_blank"}
 
-<a href="https://luizpala.github.io/series_temporais/volatilidade/st_parte_1.html" target="_blank"> PARTE 1 </a>
-
-<a href="https://luizpala.github.io/series_temporais/volatilidade/st_parte_2.html" target="_blank"> PARTE 2 </a>
+iii) Para visualizar os códigos: <a href="https://luizpala.github.io/series_temporais/volatilidade/st_parte_1.html" target="_blank">Parte 1</a> e <a href="https://luizpala.github.io/series_temporais/volatilidade/st_parte_2.html" target="_blank">Parte 2</a>
 
