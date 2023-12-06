@@ -10,6 +10,8 @@ i) Dados utilizados:
 ii) Códigos: 
 [Parte 1](https://raw.githubusercontent.com/Luizpala/series_temporais/main/volatilidade/aula_st_1.R){:target="_blank"} e [Parte 2](https://raw.githubusercontent.com/Luizpala/series_temporais/main/volatilidade/aula_st_2.R){:target="_blank"}
 
-obs: Para abrir o código no navegador: [códigos](https://raw.githubusercontent.com/Luizpala/series_temporais/main/volatilidade/st_parte_1.md){:target="_blank"}
+Parte 1:
+
+
 
 
