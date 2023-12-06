@@ -1,5 +1,5 @@
 #[Códigos e implementações](#)
-Aqui estão disponibilizaddos os códigos e implementações utilizados no grupo.
+Aqui estão disponibilizaddos alguns códigos e implementações utilizados na disciplina de séries temporais.
 
 
 ## [Implementações em R](#)
